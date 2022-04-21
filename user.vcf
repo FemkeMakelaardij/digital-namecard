@@ -5,8 +5,8 @@ N:Femke;den Oudendammer;;;
 FN: den Oudendammer 
 ORG:Femke Makelaardij;
 TITLE:Register Makelaar
-EMAIL;type=INTERNET;type=WORK;info@femkemakelaardij.nl
-TEL;type=WORK;type=VOICE:+31 62849 1602
+EMAIL;type=INTERNET;type=WORK;type=pref:info@femkemakelaardij.nl
+TEL;type=WORK;type=VOICE:+31628491602
 item2.URL;type=pref:wwww.femkemakelaardij.nl
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
